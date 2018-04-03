@@ -1,0 +1,11 @@
+c:\users\tina\documents\visual studio 2015\Projects\Login_db\Login_db\bin\Debug\Login_db.exe.config
+c:\users\tina\documents\visual studio 2015\Projects\Login_db\Login_db\bin\Debug\Login_db.exe
+c:\users\tina\documents\visual studio 2015\Projects\Login_db\Login_db\bin\Debug\Login_db.pdb
+c:\users\tina\documents\visual studio 2015\Projects\Login_db\Login_db\bin\Debug\System.Data.SQLite.dll
+c:\users\tina\documents\visual studio 2015\Projects\Login_db\Login_db\bin\Debug\System.Data.SQLite.xml
+c:\users\tina\documents\visual studio 2015\Projects\Login_db\Login_db\obj\Debug\Login_db.csprojResolveAssemblyReference.cache
+c:\users\tina\documents\visual studio 2015\Projects\Login_db\Login_db\obj\Debug\Login_db.Form1.resources
+c:\users\tina\documents\visual studio 2015\Projects\Login_db\Login_db\obj\Debug\Login_db.Properties.Resources.resources
+c:\users\tina\documents\visual studio 2015\Projects\Login_db\Login_db\obj\Debug\Login_db.csproj.GenerateResource.Cache
+c:\users\tina\documents\visual studio 2015\Projects\Login_db\Login_db\obj\Debug\Login_db.exe
+c:\users\tina\documents\visual studio 2015\Projects\Login_db\Login_db\obj\Debug\Login_db.pdb
